@@ -1,5 +1,4 @@
-# WRE_Project
-Water Ressource Engineering Project - 2022
+# Water Ressource Engineering Project - 2022
 
 ## PART 1: 
 This week, we shall develop the aforementioned hydrological model.
